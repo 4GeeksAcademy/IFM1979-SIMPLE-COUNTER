@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.container-sm{
+    height: 16vh;
+    background: black;
+    margin: auto;
+    margin-top: 18%;
+    border-radius: 60px;
+    border: 5px solid goldenrod;
+    
+}
+.box{
+    padding: 0;
+    color: red;
+    font-size: 90px;
+    height: 2000px;
+    text-align: center;
+    margin-top: 15px;
+    
+    
+}
+
+.container_icon{
+    margin-top: 15px;
+    color: red;
+}
+
